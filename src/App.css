@@ -1,0 +1,29 @@
+.ProductsInit{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    /* width: 100%;    
+    padding: 3rem;
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 21rem 21rem 21rem;
+    row-gap: 2.5rem;
+} */
+}
+.img-product img{
+    display: block;
+    height: 150px;
+    margin: 0 auto;
+    object-fit: contain;
+    width: 100px;
+}
+
+.carousel-item{
+    padding: 80px;
+    object-fit: contain;
+}
+.purchasesList{
+    display: flex;
+    flex-wrap: wrap; 
+    width: 100%;   
+}
